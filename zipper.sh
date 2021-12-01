@@ -8,6 +8,6 @@ echo "enter name of your zip"
 
 read zip_name
 
-tar -zcvf ${zip_name}.gz www
+tar -zcvf ${zip_name}.tar.gz www
 
 aws s3 mv ${zip_name}.tar.gz s3://bigbenta.allbackup
