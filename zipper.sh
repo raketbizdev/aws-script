@@ -2,7 +2,7 @@
 # Author name: Ruel Nopal
 # Company: Ruel Nopal - IT Consultant.
 
-# sudo wget https://raw.githubusercontent.com/raketbizdev/aws-script/main/cli-install.sh; sudo chmod 755 cli-install.sh; ./cli-install.sh sudo rm -f cli-install.sh;
+# sudo wget https://raw.githubusercontent.com/raketbizdev/aws-script/main/zipper.sh; sudo chmod 755 zipper.sh; ./zipper.sh sudo rm -f zipper.sh;
 
 echo "enter name of your zip"
 
